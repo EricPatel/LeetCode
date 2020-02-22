@@ -1,4 +1,6 @@
-package AddTwoNumbers;
+
+
+import AddTwoNumbers.ListNode;
 
 public class AddTwoNumbers {
 

@@ -1,4 +1,4 @@
-package LongestSubstringWithoutRepeatingCharacters;
+
 
 import java.util.HashSet;
 
@@ -31,7 +31,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
 
 	public static void main(String[] args) {
 		String test1 = "abcabcbb";
-		test1.length()
+		test1.length();
 		String test2 = "bbbbb";
 		String test3 = "pwwkew";
 		String test4 = "jbpnbwwd";
